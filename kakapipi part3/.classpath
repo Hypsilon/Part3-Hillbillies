@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src-provided"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="lib" path="C:/Users/Cor/Documents/Wiskunde/tweede jaar/2. Objectgericht Programmeren/doclets/AnnotationsDoclets.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Cor/Documents/Wiskunde/tweede jaar/2. Objectgericht Programmeren/workspace/Part 3 oude ding/lib/antlr-4.5.3-complete.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
